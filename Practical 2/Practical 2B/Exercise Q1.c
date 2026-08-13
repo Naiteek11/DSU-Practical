@@ -1,4 +1,4 @@
-//Write a C Program to Find Maximum OR Value Produced by Pairwise Elements of an Array.
+
 #include <stdio.h>
 
 int main()
