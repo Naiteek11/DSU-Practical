@@ -1,1 +1,1 @@
-"# DSU PRactical" 
+# DSU Practical
